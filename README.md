@@ -1,1 +1,1 @@
-This code is for the mathematical optimization model of article Cost-Competitive Offshore Wind-Powered Green Methanol Production for Maritime Transport Decarbonization. Before letting the code run, matlab，yalmip，gurobi, and the integration between them is necessary.
+This code is for the mathematical optimization model of article Cost-Competitive Offshore Wind-Powered Green Methanol Production for Maritime Transport Decarbonization. Before letting the code run, matlab， yalmip， gurobi, and the integration between them is necessary.
