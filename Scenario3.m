@@ -209,7 +209,7 @@ for month = 1 : Typical_Day
         Constraints = [Constraints; P_MeOH(month,hour)-P_MeOH(month,hour-1)<=0.02*P_MeOH(month,hour-1)]; % Ramp-up constraint
         Constraints = [Constraints; P_MeOH(month,hour-1)-P_MeOH(month,hour)<=0.2*P_MeOH(month,hour-1)]; % Ramp-down constraint
     end
-en
+end
 %% Objective function
 Cost_EXTRA = sum(P_GRID,'all')*(360/Typical_Day)*C_GRID;
 Cost_Battery = P2A_BAT*CAPEX_BAT*Q_BAT + OPEX_BAT*Q_BAT + P2A_BAT*CAPEX_BAT_INT*Q_BAT_INT + OPEX_BAT_INT*Q_BAT_INT; % Battery
