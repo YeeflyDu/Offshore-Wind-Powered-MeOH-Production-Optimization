@@ -2,7 +2,9 @@ This code is for the mathematical optimization model of article "Cost-Competitiv
 
 Du, Y., Shen, X., Kammen, D.M. et al. Cost-competitive offshore wind-powered green methanol production for maritime transport decarbonization. Nat Commun 16, 5453 (2025). https://doi.org/10.1038/s41467-025-60608-5
 
-File Scenarios 1 to 4 correspond to the system optimal planning using Rotterdam Port in the Netherlands as an example. Follows are the main content of article:
+m.file Scenarios 1 to 4 correspond to the system optimal planning using Rotterdam Port in the Netherlands as an example. 
+
+Follows are the framework, method, and main conclusion of this article:
 ![image](https://github.com/YeeflyDu/Offshore-Wind-Powered-MeOH-Production-Optimization/blob/main/image/1%20Overall%20Framework.JPG)
 ![image](https://github.com/YeeflyDu/Offshore-Wind-Powered-MeOH-Production-Optimization/blob/main/image/2%20System%20Configuration.JPG)
 ![image](https://github.com/YeeflyDu/Offshore-Wind-Powered-MeOH-Production-Optimization/blob/main/image/3%20Scenario%26Indicator%20design.JPG)
